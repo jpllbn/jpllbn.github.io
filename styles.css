@@ -9,8 +9,8 @@
     --gray: #718096;
     --gray-light: #e2e8f0;
     --success: #48bb78;
-    --font-heading: 'Playfair Display', Georgia, serif;
-    --font-body: 'Source Sans Pro', -apple-system, sans-serif;
+    --font-heading: 'Merriweather', Georgia, serif;
+    --font-body: 'Poppins', -apple-system, sans-serif;
 }
 
 /* Reset & Base */
@@ -157,7 +157,7 @@ h3 { font-size: clamp(1.25rem, 3vw, 1.5rem); }
 .cover-overlay {
     position: absolute;
     inset: 0;
-    background: url('https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1920') center/cover;
+    background: url('images/background.jpeg') center/cover;
     opacity: 0.15;
 }
 
